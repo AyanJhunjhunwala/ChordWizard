@@ -11,4 +11,9 @@ I am looking for someone to help me with data collection and front end dev to ma
 
 Enjoy!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Afs9eBOozkk?si=yKpapTzs7PFJ9wv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align="center">
+  <a href="https://youtu.be/Afs9eBOozkk" target="_blank">
+    <img src="https://img.youtube.com/vi/Afs9eBOozkk/hqdefault.jpg" 
+         alt="Watch on YouTube" width="560" height="315" />
+  </a>
+</p>
